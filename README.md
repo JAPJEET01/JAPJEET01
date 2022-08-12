@@ -18,12 +18,33 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://japjeet01.github.io/japjeetsingh.tech)
+<!-- [![website](./img/globe-light.svg)](https://japjeet01.github.io/japjeetsingh.tech)
 <!-- [![website](./img/globe-dark.svg)](https://japjeet01.github.io/japjeetsingh.tech) -->
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
 [![website](https://img.shields.io/twitter/follow/its_japjeet?style=social)](https://twitter.com/its_japjeet)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/)
-[![website](./img/instagram-light.svg)](https://instagram.com/its_japjeet)
+[![website](./img/instagram-light.svg)](https://instagram.com/its_japjeet) -->
+
+
+
+[![website](./img/globe-light.svg)](https://japjeet01.github.io/japjeetsingh.tech#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://japjeet01.github.io/japjeetsingh.tech#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/its_japjeet#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/its_japjeet#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/japjeet-singh-234298218#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/japjeet-singh-234298218#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/its_japjeet#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/its_japjeet#gh-dark-mode-only)
+
+
+
+
 &nbsp; &nbsp;
 <!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w) -->
 &nbsp;&nbsp;
