@@ -54,7 +54,7 @@
 
 <br />
 ---
-
+<hr>
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
