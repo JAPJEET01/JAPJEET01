@@ -7,7 +7,7 @@
 [![Linkedin ](https://img.shields.io/badge/%40LINKEDIN-FOLLOW-blue)](https://www.linkedin.com/in/japjeet-singh-234298218/)
 
 
-## I'm a Student Currently Learning New Skills
+## I'm a Student ,  Currently Learning New Skills 
 
 - 🔭 Check out my Projects : [see projects!][youtube]!
 - 🌱 I’m currently learning everything 🤣
