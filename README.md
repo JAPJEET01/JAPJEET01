@@ -1,7 +1,7 @@
 # Hi there, I'm JAPJEET SINGH  [youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCCWYdFotsFohvlQS1uBf_8w?style=social)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
-[![Website](https://img.shields.io/website?label=Japjeetsingh.tech&style=for-the-badge&url=japjeetsingh.tech)](https://Japjeetsingh.tech)
+[![Website](https://img.shields.io/website?label=Japjeetsingh.tech&style=for-the-badge&url=https://japjeetsingh.tech/)](https://Japjeetsingh.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_japjeet?style=social)](https://twitter.com/intent/follow?screen_name=its_japjeet)
 
 [![Linkedin ](https://img.shields.io/badge/%40LINKEDIN-FOLLOW-blue)](https://www.linkedin.com/in/japjeet-singh-234298218/)
@@ -24,8 +24,8 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/its_japjeet)
-[![website](./img/twitter-dark.svg)](https://twitter.com/its_japjeet)
+[![website](https://img.shields.io/twitter/follow/its_japjeet?style=social)](https://twitter.com/its_japjeet)
+[![website](https://img.shields.io/twitter/follow/its_japjeet?style=social)](https://twitter.com/its_japjeet)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/)
