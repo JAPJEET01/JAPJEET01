@@ -19,19 +19,19 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://japjeet01.github.io/japjeetsingh.tech)
-[![website](./img/globe-dark.svg)](https://japjeet01.github.io/japjeetsingh.tech)
+<!-- [![website](./img/globe-dark.svg)](https://japjeet01.github.io/japjeetsingh.tech) -->
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
+<!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w) -->
 &nbsp;&nbsp;
 [![website](https://img.shields.io/twitter/follow/its_japjeet?style=social)](https://twitter.com/its_japjeet)
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/)
+<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/) -->
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/its_japjeet)
-[![website](./img/instagram-dark.svg)](https://instagram.com/its_japjeet)
+<!-- [![website](./img/instagram-dark.svg)](https://instagram.com/its_japjeet) -->
 
 ### Languages and Tools:
 
