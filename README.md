@@ -57,11 +57,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Voice Controlled home Automation System with Alexa!!](https://youtu.be/W76eCLoOiSQ)
-- [Smart Dustbin Using Arduino ](https://youtu.be/gCB-y5SdHEs)
-- [Diy Power Bank at Home !](https://youtu.be/MKB03D6-sEo)
-- [Automatic Motion Seensor Light ! ](https://youtu.be/KbskQrNULow)
-- [AutomaticStreet Light System ! ](https://youtu.be/G63Cp7wCMYA)
+- [Free Up Disk Space NOW!! No More node_modules Folders Taking Up Space!!](https://www.youtube.com/watch?v=OuuO6EM7DL0)
+- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
+- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
+- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
+- [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
