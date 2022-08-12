@@ -43,17 +43,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/its_japjeet#gh-dark-mode-only)
 
 
-
-
-&nbsp; &nbsp;
-<!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w) -->
-&nbsp;&nbsp;
-
-&nbsp;&nbsp;
-<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/japjeet-singh-234298218/) -->
-&nbsp;&nbsp;
-<!-- [![website](./img/instagram-dark.svg)](https://instagram.com/its_japjeet) -->
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
