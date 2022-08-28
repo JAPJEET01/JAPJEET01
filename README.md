@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Book Store Management Using Python | Python Engineering Projects | software using python | cse](https://www.youtube.com/watch?v=hX64d2gp4hI)
 - [Automatic Street Light System using LDR | Science Project ideas | How to make street light system](https://www.youtube.com/watch?v=G63Cp7wCMYA)
 - [How to make water dispense at home | science project ideas | handmade water dispenser](https://www.youtube.com/watch?v=JiHAGmYfhZg)
 - [HOME AUTOMATION USING ARDUNIO AND BLUETOOTH](https://www.youtube.com/watch?v=oGQfVI8lAf4)
 - [Automatic Motion sensor  light | diy projects | engineering projects](https://www.youtube.com/watch?v=KbskQrNULow)
-- [DIY 30000 MAH Power Bank at home | how to make power bank at home](https://www.youtube.com/watch?v=MKB03D6-sEo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
