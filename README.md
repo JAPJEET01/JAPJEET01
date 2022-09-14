@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create multiplication table app | Mobile App Development  | mobile app projects | minor  project](https://www.youtube.com/watch?v=HenlEduOhlA)
 - [How to create a nav bar | web development | full stack web  developer | html | css | javascript](https://www.youtube.com/watch?v=Bm1s2Txx4Ow)
 - [Book Store Management Using Python | Python Engineering Projects | software using python | cse](https://www.youtube.com/watch?v=hX64d2gp4hI)
 - [Automatic Street Light System using LDR | Science Project ideas | How to make street light system](https://www.youtube.com/watch?v=G63Cp7wCMYA)
 - [How to make water dispense at home | science project ideas | handmade water dispenser](https://www.youtube.com/watch?v=JiHAGmYfhZg)
-- [HOME AUTOMATION USING ARDUNIO AND BLUETOOTH](https://www.youtube.com/watch?v=oGQfVI8lAf4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
