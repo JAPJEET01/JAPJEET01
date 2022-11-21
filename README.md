@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [node mcu . Rc robo car   Arduino projects #arduino #arduinoproject #iot #electronic #cse #iit #jee](https://www.youtube.com/watch?v=Nxh_NkVHvDc)
 - [This is  how i created my portfolio website | How to create a portfolio website | how to make resume](https://www.youtube.com/watch?v=PWh4Pl1Ze8M)
 - [Create multiplication table app | Mobile App Development  | mobile app projects | minor  project](https://www.youtube.com/watch?v=HenlEduOhlA)
 - [How to create a nav bar | web development | full stack web  developer | html | css | javascript](https://www.youtube.com/watch?v=Bm1s2Txx4Ow)
 - [Book Store Management Using Python | Python Engineering Projects | software using python | cse](https://www.youtube.com/watch?v=hX64d2gp4hI)
-- [Automatic Street Light System using LDR | Science Project ideas | How to make street light system](https://www.youtube.com/watch?v=G63Cp7wCMYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
