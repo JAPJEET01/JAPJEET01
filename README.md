@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lohri vlog  | first vlog | lohri celebration  2023](https://www.youtube.com/watch?v=yMIrLPeZ3iI)
 - [Firebolt smart watch. #smartgadgets #watch #smartwatch #firebolttninja #appleclone #shorts](https://www.youtube.com/watch?v=d5xJ-28SDKc)
 - [Food challenge | pani puri challenge | food vlog | who will win ?](https://www.youtube.com/watch?v=MjSOLAlGatk)
 - [gta 5  blast. #shorts #gta5 #gaming #gaminglaptop #i5 #gamingvideos #firstshortvideo #gta #gtaonline](https://www.youtube.com/watch?v=FSvdw9y2g8c)
 - [node mcu . Rc robo car   Arduino projects #arduino #arduinoproject #iot #electronic #cse #iit #jee](https://www.youtube.com/watch?v=Nxh_NkVHvDc)
-- [This is  how i created my portfolio website | How to create a portfolio website | how to make resume](https://www.youtube.com/watch?v=PWh4Pl1Ze8M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
