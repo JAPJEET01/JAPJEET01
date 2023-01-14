@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Study visa | marriage visa | work permit | get canada visa  with astrological solutions](https://www.youtube.com/watch?v=_Ylt0QFtppE)
 - [Do we believe in Astrology | Facts about Astrology | kya hume jyotish mein believe karna chaiye ?](https://www.youtube.com/watch?v=dyH2Aj9QJzg)
 - [Lohri vlog  | first vlog | lohri celebration  2023](https://www.youtube.com/watch?v=yMIrLPeZ3iI)
 - [Firebolt smart watch. #smartgadgets #watch #smartwatch #firebolttninja #appleclone #shorts](https://www.youtube.com/watch?v=d5xJ-28SDKc)
 - [Food challenge | pani puri challenge | food vlog | who will win ?](https://www.youtube.com/watch?v=MjSOLAlGatk)
-- [gta 5  blast. #shorts #gta5 #gaming #gaminglaptop #i5 #gamingvideos #firstshortvideo #gta #gtaonline](https://www.youtube.com/watch?v=FSvdw9y2g8c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
