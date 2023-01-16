@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Causes of depression | Astrological solutions for depression | depression ko kaise door kre](https://www.youtube.com/watch?v=Fv-NNx9mVwI)
 - [Amazon great republic day sale 2023 | get 70% off on alexa and smart bubs | amazon sale](https://www.youtube.com/watch?v=hoeOlmZfluo)
 - [Study visa | marriage visa | work permit | get canada visa  with astrological solutions](https://www.youtube.com/watch?v=_Ylt0QFtppE)
 - [Do we believe in Astrology | Facts about Astrology | kya hume jyotish mein believe karna chaiye ?](https://www.youtube.com/watch?v=dyH2Aj9QJzg)
 - [Lohri vlog  | first vlog | lohri celebration  2023](https://www.youtube.com/watch?v=yMIrLPeZ3iI)
-- [Firebolt smart watch. #smartgadgets #watch #smartwatch #firebolttninja #appleclone #shorts](https://www.youtube.com/watch?v=d5xJ-28SDKc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
