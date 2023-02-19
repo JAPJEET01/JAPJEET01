@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Vaishno devi  yatra  | vaishno devi trip vlog | college trip vlog](https://www.youtube.com/watch?v=yjDxIMtYypE)
+- [Vaishno devi yatra  | vaishno devi trip vlog | college trip vlog](https://www.youtube.com/watch?v=yjDxIMtYypE)
 - [Causes of depression | Astrological solutions for depression | depression ko kaise door kre](https://www.youtube.com/watch?v=Fv-NNx9mVwI)
 - [Amazon great republic day sale 2023 | get 70% off on alexa and smart bubs | amazon sale](https://www.youtube.com/watch?v=hoeOlmZfluo)
 - [Study visa | marriage visa | work permit | get canada visa  with astrological solutions](https://www.youtube.com/watch?v=_Ylt0QFtppE)
