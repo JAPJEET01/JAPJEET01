@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [patnitop trip #patnitophills #nathatop #jammukashmir #katra #vaishnodevi #snowfall #vacations](https://www.youtube.com/watch?v=xDgYoFrQczg)
 - [Mi phone battery repair #smartgadgets  #shorts #shortsvideo #xiomiredmi #battery #repair](https://www.youtube.com/watch?v=RJsXU_Q7kqE)
 - [Vaishno devi yatra  | vaishno devi trip vlog | college trip vlog](https://www.youtube.com/watch?v=yjDxIMtYypE)
 - [Causes of depression | Astrological solutions for depression | depression ko kaise door kre](https://www.youtube.com/watch?v=Fv-NNx9mVwI)
 - [Amazon great republic day sale 2023 | get 70% off on alexa and smart bubs | amazon sale](https://www.youtube.com/watch?v=hoeOlmZfluo)
-- [Study visa | marriage visa | work permit | get canada visa  with astrological solutions](https://www.youtube.com/watch?v=_Ylt0QFtppE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
