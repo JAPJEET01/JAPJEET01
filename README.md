@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#patnitophills #nathatop #snowfall #snow #vacations #enjoyment #jammukashmir #katra #winter](https://www.youtube.com/watch?v=cWOFU5K3Zp4)
 - [How to create a website using html css in just 10 minutes   B TECH CSE students must watch](https://www.youtube.com/watch?v=NaVtPx8ARlY)
 - [patnitop trip #patnitophills #nathatop #jammukashmir #katra #vaishnodevi #snowfall #vacations](https://www.youtube.com/watch?v=xDgYoFrQczg)
 - [Mi phone battery repair #smartgadgets  #shorts #shortsvideo #xiomiredmi #battery #repair](https://www.youtube.com/watch?v=RJsXU_Q7kqE)
 - [Vaishno devi yatra  | vaishno devi trip vlog | college trip vlog](https://www.youtube.com/watch?v=yjDxIMtYypE)
-- [Causes of depression | Astrological solutions for depression | depression ko kaise door kre](https://www.youtube.com/watch?v=Fv-NNx9mVwI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
