@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [iot based home automation #iot #engineering#arduino #automation#smartgadgets #smartbulb #smartlight](https://www.youtube.com/watch?v=CBNtBfv0EDg)
 - [natha top hills #vacation #snow #snowfall #manali #winter #fun #enjoyment](https://www.youtube.com/watch?v=lO35Y68ZcWc)
 - [PPR MALL GAME ZONE #bowling #gaming #bowling #ppr #games #smash #gameshorts #shorts #viral #ytshorts](https://www.youtube.com/watch?v=2JxNY5lNH4U)
 - [#patnitophills #nathatop #snowfall #snow #vacations #enjoyment #jammukashmir #katra #winter](https://www.youtube.com/watch?v=cWOFU5K3Zp4)
 - [How to create a website using html css in just 10 minutes   B TECH CSE students must watch](https://www.youtube.com/watch?v=NaVtPx8ARlY)
-- [patnitop trip #patnitophills #nathatop #jammukashmir #katra #vaishnodevi #snowfall #vacations](https://www.youtube.com/watch?v=xDgYoFrQczg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
