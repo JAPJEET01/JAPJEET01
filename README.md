@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ai smart speaker with raspberry pi  #ai #smartspeaker #alexa #mycroft #raspberrypi #project #tv](https://www.youtube.com/watch?v=S5fF4vxPrTI)
 - [Arduino Bluetooth home automation #arduino  #arduinoproject #shorts #automation #iot #gadgets](https://www.youtube.com/watch?v=kPMsjEvjxEQ)
 - [iot based home automation #iot #engineering#arduino #automation#smartgadgets #smartbulb #smartlight](https://www.youtube.com/watch?v=CBNtBfv0EDg)
 - [natha top hills #vacation #snow #snowfall #manali #winter #fun #enjoyment](https://www.youtube.com/watch?v=lO35Y68ZcWc)
 - [PPR MALL GAME ZONE #bowling #gaming #bowling #ppr #games #smash #gameshorts #shorts #viral #ytshorts](https://www.youtube.com/watch?v=2JxNY5lNH4U)
-- [#patnitophills #nathatop #snowfall #snow #vacations #enjoyment #jammukashmir #katra #winter](https://www.youtube.com/watch?v=cWOFU5K3Zp4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
