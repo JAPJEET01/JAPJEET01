@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Create Tables in Mongodb |  create tables in MongoDb | MongoDb table creation using NodeJs](https://www.youtube.com/watch?v=5KlWL3jsgdw)
 - [mongo db connection with nodejs | how to connect mongodb using nodejs | backend programming | nodejs](https://www.youtube.com/watch?v=Dl4JMQUjfKc)
 - [how to create api | backend web development |  postman api  | create your own api | how to use api](https://www.youtube.com/watch?v=OI2g_ywwMaw)
 - [Ai smart speaker with raspberry pi  #ai #smartspeaker #alexa #mycroft #raspberrypi #project #tv](https://www.youtube.com/watch?v=S5fF4vxPrTI)
 - [Arduino Bluetooth home automation #arduino  #arduinoproject #shorts #automation #iot #gadgets](https://www.youtube.com/watch?v=kPMsjEvjxEQ)
-- [iot based home automation #iot #engineering#arduino #automation#smartgadgets #smartbulb #smartlight](https://www.youtube.com/watch?v=CBNtBfv0EDg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
