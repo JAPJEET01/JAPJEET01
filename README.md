@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to insert data in mongodb tables | insert data using nodejs  in mongodb | MEAN STACK | fullstack](https://www.youtube.com/watch?v=-NW0iKJ0dlE)
+- [#api #mongodb #database #majorproject #cse #nodejs #ece #coding #vcs #shorts #ytshort #project](https://www.youtube.com/watch?v=Qibdqk2s-LA)
 - [received my postman swags #postman #api #swags #shirt #google #shorts #winner #project #ai #arduino](https://www.youtube.com/watch?v=oOXXlfSAohU)
 - [Iot Based db meter #iot #project #dbmeter #internet #cloud #server #electronics #ai #arduino #smart](https://www.youtube.com/watch?v=SWIlL0hhCa8)
 - [How to Create Tables in Mongodb |  create tables in MongoDb | MongoDb table creation using NodeJs](https://www.youtube.com/watch?v=5KlWL3jsgdw)
-- [mongo db connection with nodejs | how to connect mongodb using nodejs | backend programming | nodejs](https://www.youtube.com/watch?v=Dl4JMQUjfKc)
-- [how to create api | backend web development |  postman api  | create your own api | how to use api](https://www.youtube.com/watch?v=OI2g_ywwMaw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
