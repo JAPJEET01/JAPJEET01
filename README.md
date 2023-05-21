@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to delete data in mongodb | delete data from database using nodejs | nodejs database | fullstack](https://www.youtube.com/watch?v=Qw7wResn6Uo)
 - [How to insert data in mongodb tables | insert data using nodejs  in mongodb | MEAN STACK | fullstack](https://www.youtube.com/watch?v=-NW0iKJ0dlE)
 - [#api #mongodb #database #majorproject #cse #nodejs #ece #coding #vcs #shorts #ytshort #project](https://www.youtube.com/watch?v=Qibdqk2s-LA)
 - [received my postman swags #postman #api #swags #shirt #google #shorts #winner #project #ai #arduino](https://www.youtube.com/watch?v=oOXXlfSAohU)
 - [Iot Based db meter #iot #project #dbmeter #internet #cloud #server #electronics #ai #arduino #smart](https://www.youtube.com/watch?v=SWIlL0hhCa8)
-- [How to Create Tables in Mongodb |  create tables in MongoDb | MongoDb table creation using NodeJs](https://www.youtube.com/watch?v=5KlWL3jsgdw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
