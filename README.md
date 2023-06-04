@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Iot based home automation system #iot #smarthome #gadgets #iotprojects #finalyearprojects #cse #ece](https://www.youtube.com/watch?v=ADwbymGgwC0)
+- [Iot based home automation system #iot #smarthome #gadgets #iotprojects #finalyearprojects #cse #ece](https://www.youtube.com/watch?v=rxnaLHrJgWw)
 - [IoT based hall automation system | ECE final year project | DAVIET jalandhar](https://www.youtube.com/watch?v=mgEW099O8Ck)
 - [patnitop hills hill station #vaccation #summervacation #hills #hillstation #snow #snowfall #fun](https://www.youtube.com/watch?v=VUms8G_RPHc)
 - [Patnitop | Nathatop Vlog. Trip to patnitop | Best place to visit](https://www.youtube.com/watch?v=JLU37QrqF7s)
