@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [smoke detection using Arduino. #arduino #projects #industrial #traning #finalyearprojects](https://www.youtube.com/watch?v=uiASM08fnsA)
 - [Iot based home automation system #iot #smarthome #gadgets #iotprojects #finalyearprojects #cse #ece](https://www.youtube.com/watch?v=rxnaLHrJgWw)
 - [IoT based hall automation system | ECE final year project | DAVIET jalandhar](https://www.youtube.com/watch?v=mgEW099O8Ck)
 - [patnitop hills hill station #vaccation #summervacation #hills #hillstation #snow #snowfall #fun](https://www.youtube.com/watch?v=VUms8G_RPHc)
 - [Patnitop | Nathatop Vlog. Trip to patnitop | Best place to visit](https://www.youtube.com/watch?v=JLU37QrqF7s)
-- [Vaishno devi trip #vaishnodevi #jaimatadi #katra #jammu #monkey #prasad #shorts #ytshort #vlog](https://www.youtube.com/watch?v=2eehw7bs3K8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
