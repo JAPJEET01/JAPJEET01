@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [mini vlog day1/100 #day1 #minivlog #ashortaday #shorts #rainyday #arduino #traning #car #clouds](https://www.youtube.com/watch?v=HdMRdAap7Pw)
+- [day 1 mini vlog #minivlog #shorts #arduino #rain #1000subscriber #100dayschallenge #subscribe #car](https://www.youtube.com/watch?v=s1BwlSBKO9I)
 - [Arduino based Radar system #arduino #projects #traning #iot #industrial #traning #majorproject #cse](https://www.youtube.com/watch?v=UYBJPet5nwI)
 - [iqoo neo 7. back cover #iqooneo7bgmi #backcovers #mirror #iqooneo6 #bgmi #5g #gaming #neo #gamer](https://www.youtube.com/watch?v=MlhzOllR_rE)
 - [gas sensor with Arduino #projects #arduino #finalyearprojects #industrial #traning #ece #coding](https://www.youtube.com/watch?v=Xk_bOBZ92sw)
