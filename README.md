@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [mini vlog day1/100 #day1 #minivlog #ashortaday #shorts #rainyday #arduino #traning #car #clouds](https://www.youtube.com/watch?v=HdMRdAap7Pw)
 - [Arduino based Radar system #arduino #projects #traning #iot #industrial #traning #majorproject #cse](https://www.youtube.com/watch?v=UYBJPet5nwI)
 - [iqoo neo 7. back cover #iqooneo7bgmi #backcovers #mirror #iqooneo6 #bgmi #5g #gaming #neo #gamer](https://www.youtube.com/watch?v=MlhzOllR_rE)
 - [gas sensor with Arduino #projects #arduino #finalyearprojects #industrial #traning #ece #coding](https://www.youtube.com/watch?v=Xk_bOBZ92sw)
 - [smoke detection using Arduino. #arduino #projects #industrial #traning #finalyearprojects](https://www.youtube.com/watch?v=uiASM08fnsA)
-- [Iot based home automation system #iot #smarthome #gadgets #iotprojects #finalyearprojects #cse #ece](https://www.youtube.com/watch?v=rxnaLHrJgWw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
