@@ -12,7 +12,7 @@
 - 🔭 Check out my Projects : [see projects!][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web development
+- 🥅 2024 Goals: Learn more about web development 
 - ⚡ Fun fact: I love to learn ethical hacking as a hobby 
 - 😻 Check out My website as a showcase to my portfolio: [website](https://japjeet01.github.io/japjeetsingh.tech)
 
