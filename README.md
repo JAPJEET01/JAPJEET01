@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [iot based hone automation with automatic street light system #iot #iotprojects #shorts #project](https://www.youtube.com/watch?v=Tn7a4wFNKis)
 - [drone broken    make drone.  #arduino #drone #traning #majorproject #ece #cse #engineering #iot](https://www.youtube.com/watch?v=q-gig9T9dmc)
 - [automatic street light using Arduino  how to make drone #drone #arduino #arduinoproject #automation](https://www.youtube.com/watch?v=PrQtQqm0B7I)
 - [how to clean laptop#laptop #hp #repair #laptoprepair #laptopgaming #gaming #minivlog #1000subscriber](https://www.youtube.com/watch?v=CEhMGWW8Qxw)
 - [#day4  #1000subscriber #100dayschallenge #coding #minivlog #vlog #shorts #ytshort #pleasesubscribe](https://www.youtube.com/watch?v=imnfJD4YWwk)
-- [industrial traning #industrial #arduino #webdevelopment #fullstack #iot #ece  #cse #majorproject](https://www.youtube.com/watch?v=PVuh9i6nLTM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
