@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [diy rc car #rccar #diy #arduino #iot #industrial #traning #placement #majorproject #cse #coding #c++](https://www.youtube.com/watch?v=gcLMVU4JP8U)
 - [nit Jalandhar #nitjalandhar #traning #placement #robotics #indianrailways #roboticarm #robot #iit](https://www.youtube.com/watch?v=NpBGbX1w6Fs)
 - [iot based hone automation with automatic street light system #iot #iotprojects #shorts #project](https://www.youtube.com/watch?v=Tn7a4wFNKis)
 - [drone broken    make drone.  #arduino #drone #traning #majorproject #ece #cse #engineering #iot](https://www.youtube.com/watch?v=q-gig9T9dmc)
 - [automatic street light using Arduino  how to make drone #drone #arduino #arduinoproject #automation](https://www.youtube.com/watch?v=PrQtQqm0B7I)
-- [how to clean laptop#laptop #hp #repair #laptoprepair #laptopgaming #gaming #minivlog #1000subscriber](https://www.youtube.com/watch?v=CEhMGWW8Qxw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
