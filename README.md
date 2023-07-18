@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [backlight keyboard  laptop keyboard #keyboard #laptop #backlit #mouse #rgbkeyboard #laptopgaming](https://www.youtube.com/watch?v=EDDV-BZnaJ0)
 - [iot based wifi car major project #arduino #cse #engineering #iot #workshop #majorproject #results](https://www.youtube.com/watch?v=Gst6OLDd4EU)
 - [iot based wifi car #iot #internetofthings #wifi #car #nodemcu #programming #electronics #carrepair](https://www.youtube.com/watch?v=UCkmqIzvZfk)
 - [ai based robot #arduino #raspberrypi #alexa #mycroft #minivlog #shorts #ytshort #100dayschallenge](https://www.youtube.com/watch?v=qi7LMpQQeE8)
 - [diy rc car #rccar #diy #arduino #iot #industrial #traning #placement #majorproject #cse #coding #c++](https://www.youtube.com/watch?v=gcLMVU4JP8U)
-- [nit Jalandhar #nitjalandhar #traning #placement #robotics #indianrailways #roboticarm #robot #iit](https://www.youtube.com/watch?v=NpBGbX1w6Fs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
