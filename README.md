@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hexacoptor. drone at home diy drone #drone #droneshots #diy #dronephotography #dji #djimini2 #dji](https://www.youtube.com/watch?v=4VyLpas0rVY)
 - [flysky i6 unboxing #flysky #drone #dronevideo #hexacopter #drone #diy #droneshots #shorts #ytshorts](https://www.youtube.com/watch?v=tUKIzqO8POw)
 - [radar system using Arduino #radar #arduino #arduinoproject #nodemcu #ece #iot #arduinonano #cse](https://www.youtube.com/watch?v=V9EkaZDC8wI)
 - [backlight keyboard  laptop keyboard #keyboard #laptop #backlit #mouse #rgbkeyboard #laptopgaming](https://www.youtube.com/watch?v=EDDV-BZnaJ0)
 - [iot based wifi car major project #arduino #cse #engineering #iot #workshop #majorproject #results](https://www.youtube.com/watch?v=Gst6OLDd4EU)
-- [iot based wifi car #iot #internetofthings #wifi #car #nodemcu #programming #electronics #carrepair](https://www.youtube.com/watch?v=UCkmqIzvZfk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
