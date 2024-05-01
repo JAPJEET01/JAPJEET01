@@ -1,7 +1,7 @@
 # Hi there, I'm JAPJEET SINGH  [youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCCWYdFotsFohvlQS1uBf_8w?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w)
-[![Website](https://img.shields.io/website?label=Japjeetsingh.tech&style=for-the-badge&url=https://google.com)](https://japjeetsingh.tech)
+[![Website](https://img.shields.io/website?label=Japjeetsingh.tech&style=for-the-badge&url=https://google.com)]([https://japjeetsingh.tech](https://japjeet01.github.io/japjeetsingh.tech/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_japjeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=its_japjeet)
 
 [![Linkedin ](https://img.shields.io/website?label=ITS_JAPJEET&logo=linkedin&style=for-the-badge&url=https://google.com)](https://www.linkedin.com/in/japjeet-singh-234298218/)
