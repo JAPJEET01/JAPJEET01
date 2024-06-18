@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [dji Phantom unboxing #djiphantom #unboxing #drone #newdrone #dronephotography #project #gadgets](https://www.youtube.com/watch?v=9tKq2FQdMf4)
 - [dji phantom drone #djimini2 #djiphantom #drone #dronefly #droneshots #dronevideo #dji #djimini3pro](https://www.youtube.com/watch?v=YuGM3C2NSI0)
 - [dji drone Remote #dji #djiphantom #dji #djimini2 #djimini3pro #djiglobal #drone #crash #dronecrash](https://www.youtube.com/watch?v=-A2-UvzHn6E)
 - [Dji phantom propeller #dji #djimini2 #djiphantom #dron#dronefly #droneshots #dronevideo #djimini2](https://www.youtube.com/watch?v=PS_kAk-SPZE)
 - [dji phantom drone fly #dji #djiphantom #djiphotography #drone #dronefly #droneshots #djimini2 #dji](https://www.youtube.com/watch?v=DPcU69SbLU8)
-- [Hexacoptor  drone frame #hexacopter #drone #dronevideo #djimini2 #djimini3pro #dji #dronephotography](https://www.youtube.com/watch?v=pkgrEbIa_mc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
