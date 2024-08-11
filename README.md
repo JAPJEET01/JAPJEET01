@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [phone repair #iphone #repair #redmi #motherboard #deadphonerepair #poweric #lenovo #oppo #vivo](https://www.youtube.com/watch?v=EAV5YpkbouE)
 - [iphone repair #iphone #repair #phonerepair #greenscreen #redmi #oppo #vivo #display #phonecase](https://www.youtube.com/watch?v=NFu2ovD3_Jw)
 - [dji Phantom gimbal #gimbal #drone #dronefly #djiphantom #dronevideo #djimini2 #unboxing #shorts #yt](https://www.youtube.com/watch?v=ApxK-fIVCdc)
 - [dji Phantom unboxing #djiphantom #unboxing #drone #newdrone #dronephotography #project #gadgets](https://www.youtube.com/watch?v=9tKq2FQdMf4)
 - [dji phantom drone #djimini2 #djiphantom #drone #dronefly #droneshots #dronevideo #dji #djimini3pro](https://www.youtube.com/watch?v=YuGM3C2NSI0)
-- [dji drone Remote #dji #djiphantom #dji #djimini2 #djimini3pro #djiglobal #drone #crash #dronecrash](https://www.youtube.com/watch?v=-A2-UvzHn6E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
