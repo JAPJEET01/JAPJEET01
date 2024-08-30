@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [led repair black spots on display | lcd repair | blur image](https://www.youtube.com/watch?v=e-CgIW3NBVg)
 - [Dead airpods repair airpods one side not working airpods low sound #airpods #airpodspro #repair](https://www.youtube.com/watch?v=4bKGbVqDTHo)
 - [Airpods repair in just 3 minutes  | airpords not charging | dead solution | one side not working](https://www.youtube.com/watch?v=IHh7gdAbLP4)
 - [oca glass replacement #repair #ocaglass #mobilerepair #redmi #oppo #vivo #realme #displayrepair](https://www.youtube.com/watch?v=bHUjfXds55M)
 - [Dead Phone repair #deadphonerepair #repairmymobilescreen #mobilerepair #redmi #oppo #vivo #realme](https://www.youtube.com/watch?v=tPZA_YBDffs)
-- [mobile battery booster #mobilerepair #battery #redmiband #boosting #realme #smartphone #vivo #oppo](https://www.youtube.com/watch?v=u8brfgA94V4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
