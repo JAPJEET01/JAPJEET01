@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Power ic removing #redmi #poweric #deadmobilerepair #mobilerepair #phonerepair #notcharging #display](https://www.youtube.com/watch?v=yPbq2xDNaLA)
 - [Emmc reballing #icreballing #chiplevelcourse #mobilerepair #mobilekarigar #repair #redmi #oppovivo](https://www.youtube.com/watch?v=Ck8uH4H2x1g)
 - [Emmc repair  | Emmc reballing | ic reballing #icreballing #repair #emmcrepair #oppovivo #realme](https://www.youtube.com/watch?v=PEAef7cg9h8)
 - [led repair black spots on display | lcd repair | blur image](https://www.youtube.com/watch?v=e-CgIW3NBVg)
 - [Dead airpods repair airpods one side not working airpods low sound #airpods #airpodspro #repair](https://www.youtube.com/watch?v=4bKGbVqDTHo)
-- [Airpods repair in just 3 minutes  | airpords not charging | dead solution | one side not working](https://www.youtube.com/watch?v=IHh7gdAbLP4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
