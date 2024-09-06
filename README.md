@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [dead people repair power ic reballing #redmi #opporepair #repair #poweric #ledscreen #iphonerepair](https://www.youtube.com/watch?v=8xd-hR8UC8o)
+- [dead phone repair power ic reballing #redmi #opporepair #repair #poweric #ledscreen #iphonerepair](https://www.youtube.com/watch?v=8xd-hR8UC8o)
 - [Power ic removing #redmi #poweric #deadmobilerepair #mobilerepair #phonerepair #notcharging #display](https://www.youtube.com/watch?v=yPbq2xDNaLA)
 - [Emmc reballing #icreballing #chiplevelcourse #mobilerepair #mobilekarigar #repair #redmi #oppovivo](https://www.youtube.com/watch?v=Ck8uH4H2x1g)
 - [Emmc repair  | Emmc reballing | ic reballing #icreballing #repair #emmcrepair #oppovivo #realme](https://www.youtube.com/watch?v=PEAef7cg9h8)
