@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to repair phone not charging | dead phone repair | phone not charging  fix](https://www.youtube.com/watch?v=TzHIOt3n9_8)
 - [Diy hearing aid | hearing aid #hearingaid #hearingaids #deaf #amplifier #repair #earsound #deaflife](https://www.youtube.com/watch?v=IfWBeZuewyQ)
 - [Display flex repair | micro jumpering #microjumpering #displayrepair #redmi #realmerepair #oppo](https://www.youtube.com/watch?v=M_grA2uFPZg)
 - [dead phone repair power ic reballing #redmi #opporepair #repair #poweric #ledscreen #iphonerepair](https://www.youtube.com/watch?v=8xd-hR8UC8o)
 - [Power ic removing #redmi #poweric #deadmobilerepair #mobilerepair #phonerepair #notcharging #display](https://www.youtube.com/watch?v=yPbq2xDNaLA)
-- [Emmc reballing #icreballing #chiplevelcourse #mobilerepair #mobilekarigar #repair #redmi #oppovivo](https://www.youtube.com/watch?v=Ck8uH4H2x1g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
