@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Iphone battery connector repair #iphonerepair #battery #repairmymobilescreen #iphonebattery #repair](https://www.youtube.com/watch?v=kaRxvNQQ_SA)
 - [iphone battery connector repair | iphone not charging| iphone dead solution| dead phone repair](https://www.youtube.com/watch?v=bKPsuuHaiig)
 - [Chip level motherboard repair #motherboard #mobilephonerepair #redmi #repair  #oppo #chargingproblem](https://www.youtube.com/watch?v=_A5SFUoQCcc)
 - [New mobile shop opening #mobilephonerepair #mobileshop #mobilephoneservice #redmi #smartphone #edit](https://www.youtube.com/watch?v=IMyGZ0Na-uE)
 - [how to repair phone not charging | dead phone repair | phone not charging  fix](https://www.youtube.com/watch?v=TzHIOt3n9_8)
-- [Diy hearing aid | hearing aid #hearingaid #hearingaids #deaf #amplifier #repair #earsound #deaflife](https://www.youtube.com/watch?v=IfWBeZuewyQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
