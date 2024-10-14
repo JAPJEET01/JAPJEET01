@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Noise watch repair | iWatch repair | iWatch dead repair | smartwatch not charging solution #noise](https://www.youtube.com/watch?v=V4-s6U9upl4)
 - [Iphone dead repair #deadmobilerepair #iphonerepair #deadmobilerepair #iphonebattery #greenscreen](https://www.youtube.com/watch?v=kUbOIVYC254)
 - [Iphone battery connector repair #iphonerepair #battery #repairmymobilescreen #iphonebattery #repair](https://www.youtube.com/watch?v=kaRxvNQQ_SA)
 - [iphone battery connector repair | iphone not charging| iphone dead solution| dead phone repair](https://www.youtube.com/watch?v=bKPsuuHaiig)
 - [Chip level motherboard repair #motherboard #mobilephonerepair #redmi #repair  #oppo #chargingproblem](https://www.youtube.com/watch?v=_A5SFUoQCcc)
-- [New mobile shop opening #mobilephonerepair #mobileshop #mobilephoneservice #redmi #smartphone #edit](https://www.youtube.com/watch?v=IMyGZ0Na-uE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
