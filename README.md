@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Iphone chip level repair in Jalandhar #iphonerepair #smartphone #androidrepair #motherboard #oppo](https://www.youtube.com/watch?v=gKP17i9aZt0)
 - [Iphone and Android chip level phone repair in Jalandhar #chiplevelrepairing #deadmobilerepair #oppo](https://www.youtube.com/watch?v=oDRo0SdGLZA)
 - [Oppo a37 display change #displayreplace #mobilephonerepair #repair #chargingproblem #redmi #oppo](https://www.youtube.com/watch?v=Io4e4cJSiBo)
 - [Chip level phone repair in Jalandhar iphone repair | #deadphonerepair #jalandhar #mobilephonerepair](https://www.youtube.com/watch?v=2GDIocB-2DI)
 - [Noise watch repair | iWatch repair | iWatch dead repair | smartwatch not charging solution #noise](https://www.youtube.com/watch?v=V4-s6U9upl4)
-- [Iphone dead repair #deadmobilerepair #iphonerepair #deadmobilerepair #iphonebattery #greenscreen](https://www.youtube.com/watch?v=kUbOIVYC254)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
