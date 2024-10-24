@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chip level Mobile , Laptop LED/LCD or any electronic repair in Jalandhar #pcbrepair #ledrepair #oppo](https://www.youtube.com/watch?v=7KW11KFGRdQ)
 - [Laptop slow and hang problem fixed #laptoprepair #dellgaming #laptopslow #thermalpaste #laptopscreen](https://www.youtube.com/watch?v=FCSAhaV9FlQ)
 - [laptop  running  slow fix | laptop  heating | laptop slow speed fix | install side in laptop](https://www.youtube.com/watch?v=w_uTOK6TY6U)
 - [Samsung s20 fe dead no display repair | dead phone repair | no display samsung phone | phone repair](https://www.youtube.com/watch?v=_kCocCLeS9U)
 - [Samsung a50 software flashing #flashing #softwareengineer #iphonerepair #samsung #frpbypass #repair](https://www.youtube.com/watch?v=EZhWM9SEDuA)
-- [Chip level iphone and Android repair in Jalandhar make your dead phone alive again #deadmobilerepair](https://www.youtube.com/watch?v=IFV2uHCs0-k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
