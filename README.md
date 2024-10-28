@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Samsung phone lines on display | iphone green screen | samsung phone green lines on display](https://www.youtube.com/watch?v=GAFyl_X4OIg)
 - [Dead laptop repair in jalandhar #deadmobilerepair #laptoprepair #laptop #computer #computer #redmi](https://www.youtube.com/watch?v=9RRpWPY79uo)
 - [Chip level Mobile , Laptop LED/LCD or any electronic repair in Jalandhar #pcbrepair #ledrepair #oppo](https://www.youtube.com/watch?v=7KW11KFGRdQ)
 - [Laptop slow and hang problem fixed #laptoprepair #dellgaming #laptopslow #thermalpaste #laptopscreen](https://www.youtube.com/watch?v=FCSAhaV9FlQ)
 - [laptop  running  slow fix | laptop  heating | laptop slow speed fix | install side in laptop](https://www.youtube.com/watch?v=w_uTOK6TY6U)
-- [Samsung s20 fe dead no display repair | dead phone repair | no display samsung phone | phone repair](https://www.youtube.com/watch?v=_kCocCLeS9U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
