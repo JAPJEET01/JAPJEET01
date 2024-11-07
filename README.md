@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dead phone repair #deadmobilerepair #iphonerepair #laptoprepair #oppo #vivo #redmi #greendisplay](https://www.youtube.com/watch?v=mR5v7ke5vTA)
 - [Firebolt dead smartwatch repair #smartwatchrepair #fireboltt #deadmobilerepair #laptoprepair](https://www.youtube.com/watch?v=uItvZxu6nxc)
 - [Fully dead phone restoration #deadmobilerepair #deadphonerepair #iphonerepair #techno #redmi #oppo](https://www.youtube.com/watch?v=eDiLjvc3ujY)
 - [Redmi phone back glass replacement #redmi #laptoprepair    #mobilephonerepair  #deadmobilerepair](https://www.youtube.com/watch?v=RmYZfVVIoS8)
 - [Samsung phone display connector repair  #displayreplace  #greenscreen #displaylines #samsungrepair](https://www.youtube.com/watch?v=qlQGP0pzVgM)
-- [Samsung phone lines on display | iphone green screen | samsung phone green lines on display](https://www.youtube.com/watch?v=GAFyl_X4OIg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
