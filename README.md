@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DEAD LAPTOP REPAIR  in just 2 minutes | dead laptop repair| laptop no display  repair](https://www.youtube.com/watch?v=08L5JRf4zc8)
 - [Laptop no display problem repair #laptoprepair #nodisplay #iphonerepair #androidrepair #laptopissues](https://www.youtube.com/watch?v=9hNNWsg6C4U)
 - [Dead iphone repair #iphonerepair #iphonebattery #deadmobilerepair #chiplevelrepairing #laptop #oppo](https://www.youtube.com/watch?v=6aN-egHAWqo)
 - [Dead phone repair #deadmobilerepair #iphonerepair #laptoprepair #oppo #vivo #redmi #greendisplay](https://www.youtube.com/watch?v=mR5v7ke5vTA)
 - [Firebolt dead smartwatch repair #smartwatchrepair #fireboltt #deadmobilerepair #laptoprepair](https://www.youtube.com/watch?v=uItvZxu6nxc)
-- [Fully dead phone restoration #deadmobilerepair #deadphonerepair #iphonerepair #techno #redmi #oppo](https://www.youtube.com/watch?v=eDiLjvc3ujY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
