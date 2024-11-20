@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full short dead laptop repair | dell laptop repair | dell laptop not turning on | dell laptop dead](https://www.youtube.com/watch?v=3ai_zfSLajo)
 - [Dead ipad repair #deadmobilerepair #ipadrepair #ipadpro #phonerepair #oppo #laptop #redmi #nodisplay](https://www.youtube.com/watch?v=K8PndLTp_zY)
 - [ipad battery repair | dead ipad repair| ipad not turning on fix | how to repair ipad not turning on](https://www.youtube.com/watch?v=ApBiaTz5zuA)
 - [DEAD LAPTOP REPAIR  in just 2 minutes | dead laptop repair| laptop no display  repair](https://www.youtube.com/watch?v=08L5JRf4zc8)
 - [Laptop no display problem repair #laptoprepair #nodisplay #iphonerepair #androidrepair #laptopissues](https://www.youtube.com/watch?v=9hNNWsg6C4U)
-- [Dead iphone repair #iphonerepair #iphonebattery #deadmobilerepair #chiplevelrepairing #laptop #oppo](https://www.youtube.com/watch?v=6aN-egHAWqo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
