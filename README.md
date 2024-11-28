@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Laptop hang on logo fix #deadmobilerepair #laptoprepair #laptop #laptopscreen #iphonerepair #hp](https://www.youtube.com/watch?v=2i6hnld3C6I)
 - [Mac Book Air screen replacement done #macbook #macbookpro #macbookair #screenreplace #iphonerepair](https://www.youtube.com/watch?v=vuco42eaYyw)
 - [laptop hangs  on logo fix | laptop not turning on fix | dead laptop repair | laptop light blinking](https://www.youtube.com/watch?v=kiPDfhNmKUI)
 - [Full short dead laptop repair | dell laptop repair | dell laptop not turning on | dell laptop dead](https://www.youtube.com/watch?v=3ai_zfSLajo)
 - [Dead ipad repair #deadmobilerepair #ipadrepair #ipadpro #phonerepair #oppo #laptop #redmi #nodisplay](https://www.youtube.com/watch?v=K8PndLTp_zY)
-- [ipad battery repair | dead ipad repair| ipad not turning on fix | how to repair ipad not turning on](https://www.youtube.com/watch?v=ApBiaTz5zuA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
