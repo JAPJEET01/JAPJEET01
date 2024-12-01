@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Laptop screen flickering problem fix  #laptopscreenflickring #laptopdisplay #repair #laptoprepair](https://www.youtube.com/watch?v=lPbivi621ss)
 - [laptop screen flickering fixed | laptop display  flickering fixed | laptop no display fixed #laptop](https://www.youtube.com/watch?v=AcxtjEA5InM)
 - [Ipad disabled fix | iCloud bypass #icloudbypassfull #iphonedisabled #ipaddisabled #ipadrepair #ipad](https://www.youtube.com/watch?v=uQu--7n3yRQ)
 - [Samsung mobile screen replacement #deadmobilerepair #mobilephonerepair #samsungmobile #screenreplace](https://www.youtube.com/watch?v=4Fxujwij4jQ)
 - [Laptop hang on logo fix #deadmobilerepair #laptoprepair #laptop #laptopscreen #iphonerepair #hp](https://www.youtube.com/watch?v=2i6hnld3C6I)
-- [Mac Book Air screen replacement done #macbook #macbookpro #macbookair #screenreplace #iphonerepair](https://www.youtube.com/watch?v=vuco42eaYyw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
