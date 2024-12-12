@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Iphone 11 battery replacement #iphonerepair #iphonebatteryhealth #deadmobilerepair #iphone11 #repair](https://www.youtube.com/watch?v=8u25v53YS-g)
 - [iPhone battery replacement | iphone 11 battery replacement #iphonebattery #iphonerepair #deadphone](https://www.youtube.com/watch?v=xA7GhT2X7MM)
 - [Dead phone repair | iphone battery replacement #deadphonerepair #iphonerepair #laptoprepair #laptop](https://www.youtube.com/watch?v=1DljTUdO3Is)
 - [iPad pro 11 inch glass replacement #ipadrepair #glassreplacement #iphonerepair #ipadpro #repair](https://www.youtube.com/watch?v=JmKCtSBH1Jo)
 - [iphone 14 pro screen replacement #greenscreen #iphonerepair #greenlines #screenreplace #greenscreen](https://www.youtube.com/watch?v=48heZFFXRp4)
-- [What&#39;s inside a phone CPU | phone cpu under a microscope #cpu #microscope #deadmobilerepair #redmi](https://www.youtube.com/watch?v=YoGPbrIm-xg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
