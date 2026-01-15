@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Charging Habits That Are Killing Your Phone Battery #Shorts #PhoneTips #ChargingMistakes #repair](https://www.youtube.com/shorts/YWw-uglGj7k)
 - [3 iPhone Myths You Still Believe in 2025 😱 | iPhone Battery Truth #ytshorts #iPhoneTips#TechShorts#](https://www.youtube.com/shorts/lGatluIMrhQ)
 - [Mobile Phone Blast #shorts #phoneblast](https://www.youtube.com/shorts/DhI7LOh6m4Q)
 - [iPhone 14 pro max back glass replacement #bollywood #iPhone #backglassreplacement #greenscreen](https://www.youtube.com/shorts/6AAdrzM-eQo)
 - [Iphone 13 pro max back glass replacement #iphonerepair #backglassreplacement #deadmobilerepair #done](https://www.youtube.com/shorts/nyQhiYiKx2c)
-- [iphone display replacement | iphone icloud bypass](https://www.youtube.com/watch?v=kAlyGYPbYiQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
