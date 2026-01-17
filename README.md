@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 iPhone Hidden Settings You Must Try in 2026 😱 | Secret iOS Features #iPhoneTips #iPhoneHacks](https://www.youtube.com/shorts/LwTRNAWG9i8)
 - [Cheap vs Expensive Glass Guard 😱 Which One Really Protects? #Shorts#YouTubeShorts#GlassGuard](https://www.youtube.com/shorts/NAbQs3s1vck)
 - [3 Charging Habits That Are Killing Your Phone Battery #Shorts #PhoneTips #ChargingMistakes #repair](https://www.youtube.com/shorts/YWw-uglGj7k)
 - [3 iPhone Myths You Still Believe in 2025 😱 | iPhone Battery Truth #ytshorts #iPhoneTips#TechShorts#](https://www.youtube.com/shorts/lGatluIMrhQ)
 - [Mobile Phone Blast #shorts #phoneblast](https://www.youtube.com/shorts/DhI7LOh6m4Q)
-- [iPhone 14 pro max back glass replacement #bollywood #iPhone #backglassreplacement #greenscreen](https://www.youtube.com/shorts/6AAdrzM-eQo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
