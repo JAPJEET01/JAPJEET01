@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Android Phone Hang Fix 🔥 Hidden Developer Option Trick #shorts #viral #tech #hanging #android #reel](https://www.youtube.com/shorts/axfn4Y0ZjvA)
 - [iPhone full volume pe bhi 100% sound nahi deta 😱Ye setting ON karo aur feel the difference #shorts](https://www.youtube.com/shorts/ksZFSW9CJoM)
 - [3 iPhone Hidden Settings You Must Try in 2026 😱 | Secret iOS Features #iPhoneTips #iPhoneHacks](https://www.youtube.com/shorts/LwTRNAWG9i8)
 - [Cheap vs Expensive Glass Guard 😱 Which One Really Protects? #Shorts#YouTubeShorts#GlassGuard](https://www.youtube.com/shorts/NAbQs3s1vck)
 - [3 Charging Habits That Are Killing Your Phone Battery #Shorts #PhoneTips #ChargingMistakes #repair](https://www.youtube.com/shorts/YWw-uglGj7k)
-- [3 iPhone Myths You Still Believe in 2025 😱 | iPhone Battery Truth #ytshorts #iPhoneTips#TechShorts#](https://www.youtube.com/shorts/lGatluIMrhQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
