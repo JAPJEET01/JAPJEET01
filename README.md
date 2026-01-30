@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [120W Fast Charging Phone Blast Kar Sakta Hai? 😱📱#FastCharging #120WCharging #phoneblast  #YTShorts](https://www.youtube.com/shorts/0BXyCx5JYIQ)
 - [👉 Sabse Zyada Bikne Wale Earbuds Under ₹2000 🤯 #shorts #ytshorts #techreels #tech #earphone #tws](https://www.youtube.com/shorts/yIQRFmQJac0)
 - [This Mistake Can Blast Your Capacitor 💥 #NeverDoThis #Capacitor #ElectronicsReels#TechReels#shorts](https://www.youtube.com/shorts/3y9Cu5B51ZA)
 - [I Controlled Instagram Using ONLY My Voice 😳 #shorts #iphonetips #voicecontrol #hidden #ytshorts](https://www.youtube.com/shorts/ApnkKuwS8N4)
 - [“iPhone can measure height… did you know this? 🤯📱”#didyouknow #iphone #iphonefeature #measureapp](https://www.youtube.com/shorts/UFo8URTC4oA)
-- [Unlock Your iPhone Using Only Your Voice 🤯 | Hidden iPhone Trick #iphonetips #iph one #shorts](https://www.youtube.com/shorts/QMLQO65zoN8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
