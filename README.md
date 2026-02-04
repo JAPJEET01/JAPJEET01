@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Android ho ya iPhone… but maanta hoon, yeh 3 setting thodi flex wali hain 😜#androidtips #ytshorts](https://www.youtube.com/shorts/3kP1266Wo1Q)
 - [@Apple  please fix this security breach #ApplePrivacy#FaceIDFail#iPhoneUsers#TechExpose#ViralReels](https://www.youtube.com/shorts/7O_kggH1exU)
 - [120W Fast Charging Phone Blast Kar Sakta Hai? 😱📱#FastCharging #120WCharging #phoneblast  #YTShorts](https://www.youtube.com/shorts/0BXyCx5JYIQ)
 - [👉 Sabse Zyada Bikne Wale Earbuds Under ₹2000 🤯 #shorts #ytshorts #techreels #tech #earphone #tws](https://www.youtube.com/shorts/yIQRFmQJac0)
 - [This Mistake Can Blast Your Capacitor 💥 #NeverDoThis #Capacitor #ElectronicsReels#TechReels#shorts](https://www.youtube.com/shorts/3y9Cu5B51ZA)
-- [I Controlled Instagram Using ONLY My Voice 😳 #shorts #iphonetips #voicecontrol #hidden #ytshorts](https://www.youtube.com/shorts/ApnkKuwS8N4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCWYdFotsFohvlQS1uBf_8w/videos)
